@@ -1,0 +1,26 @@
+[
+  {
+    "clientDto": {
+      "experience": 4,
+      "accidentQty": 0,
+      "enginePower": 1
+    },
+    "expectedInsuranceCost": 2100
+  },
+  {
+    "clientDto": {
+      "experience": 0,
+      "accidentQty": 4,
+      "enginePower": 150
+    },
+    "expectedInsuranceCost": 15360
+  },
+  {
+    "clientDto": {
+      "experience": 15,
+      "accidentQty": 0,
+      "enginePower": 100
+    },
+    "expectedInsuranceCost": 2772
+  }
+]
