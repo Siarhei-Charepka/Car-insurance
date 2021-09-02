@@ -39,7 +39,7 @@ public class CarInsuranceServiceClassTest {
     @Test(expectedExceptions = InvalidDataException.class)
     public void getCostExceptionTest() {
         log.info("getDrivingExperienceCostTest works");
-        ClientDto clientDto = new ClientDto(-5, -5, -5);
+        ClientDto clientDto = new ClientDto(-1, -1, -1);
         double actualCost = carInsuranceService.getCost(clientDto);
     }
 }

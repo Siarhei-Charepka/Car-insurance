@@ -16,3 +16,67 @@
 2021-07-19 23:10:32 INFO  CarInsuranceService:24 - getCostByDrivingExperience method works
 2021-07-19 23:10:32 INFO  CarInsuranceService:37 - getAccidentFactor method works
 2021-07-19 23:10:32 INFO  CarInsuranceService:52 - getCarEnginePowerFactor method works
+2021-07-20 20:39:19 INFO  CarInsuranceServiceClassTest:41 - getDrivingExperienceCostTest works
+2021-07-20 20:39:19 INFO  CarInsuranceService:13 - getCost method works
+2021-07-20 20:44:47 INFO  CarInsuranceServiceClassTest:41 - getDrivingExperienceCostTest works
+2021-07-20 20:44:47 INFO  CarInsuranceService:13 - getCost method works
+2021-07-20 20:45:11 INFO  CarInsuranceServiceClassTest:41 - getDrivingExperienceCostTest works
+2021-07-20 20:45:11 INFO  CarInsuranceService:13 - getCost method works
+2021-07-20 20:45:28 INFO  CarInsuranceServiceClassTest:41 - getDrivingExperienceCostTest works
+2021-07-20 20:45:28 INFO  CarInsuranceService:13 - getCost method works
+2021-07-20 20:45:28 INFO  CarInsuranceService:24 - getCostByDrivingExperience method works
+2021-07-20 20:45:28 INFO  CarInsuranceService:37 - getAccidentFactor method works
+2021-07-20 20:45:28 INFO  CarInsuranceService:52 - getCarEnginePowerFactor method works
+2021-07-20 20:52:36 INFO  CarInsuranceServiceClassTest:41 - getDrivingExperienceCostTest works
+2021-07-20 20:52:36 INFO  CarInsuranceService:13 - getCost method works
+2021-07-20 20:52:38 INFO  CarInsuranceServiceClassTest:32 - getDrivingExperienceCostTest works
+2021-07-20 20:52:38 INFO  CarInsuranceService:13 - getCost method works
+2021-07-20 20:52:38 INFO  CarInsuranceService:24 - getCostByDrivingExperience method works
+2021-07-20 20:52:38 INFO  CarInsuranceService:37 - getAccidentFactor method works
+2021-07-20 20:52:38 INFO  CarInsuranceService:52 - getCarEnginePowerFactor method works
+2021-07-20 20:52:38 INFO  CarInsuranceServiceClassTest:32 - getDrivingExperienceCostTest works
+2021-07-20 20:52:38 INFO  CarInsuranceService:13 - getCost method works
+2021-07-20 20:52:38 INFO  CarInsuranceService:24 - getCostByDrivingExperience method works
+2021-07-20 20:52:38 INFO  CarInsuranceService:37 - getAccidentFactor method works
+2021-07-20 20:52:38 INFO  CarInsuranceService:52 - getCarEnginePowerFactor method works
+2021-07-20 20:52:38 INFO  CarInsuranceServiceClassTest:32 - getDrivingExperienceCostTest works
+2021-07-20 20:52:38 INFO  CarInsuranceService:13 - getCost method works
+2021-07-20 20:52:38 INFO  CarInsuranceService:24 - getCostByDrivingExperience method works
+2021-07-20 20:52:38 INFO  CarInsuranceService:37 - getAccidentFactor method works
+2021-07-20 20:52:38 INFO  CarInsuranceService:52 - getCarEnginePowerFactor method works
+2021-08-11 22:54:30 INFO  CarInsuranceServiceClassTest:41 - getDrivingExperienceCostTest works
+2021-08-11 22:54:30 INFO  CarInsuranceService:13 - getCost method works
+2021-08-11 22:54:30 INFO  CarInsuranceServiceClassTest:32 - getDrivingExperienceCostTest works
+2021-08-11 22:54:30 INFO  CarInsuranceServiceClassTest:32 - getDrivingExperienceCostTest works
+2021-08-11 22:54:30 INFO  CarInsuranceService:13 - getCost method works
+2021-08-11 22:54:30 INFO  CarInsuranceService:13 - getCost method works
+2021-08-11 22:54:30 INFO  CarInsuranceService:24 - getCostByDrivingExperience method works
+2021-08-11 22:54:30 INFO  CarInsuranceService:37 - getAccidentFactor method works
+2021-08-11 22:54:30 INFO  CarInsuranceService:52 - getCarEnginePowerFactor method works
+2021-08-11 22:54:30 INFO  CarInsuranceServiceClassTest:32 - getDrivingExperienceCostTest works
+2021-08-11 22:54:30 INFO  CarInsuranceService:13 - getCost method works
+2021-08-11 22:54:30 INFO  CarInsuranceService:24 - getCostByDrivingExperience method works
+2021-08-11 22:54:30 INFO  CarInsuranceService:37 - getAccidentFactor method works
+2021-08-11 22:54:30 INFO  CarInsuranceService:52 - getCarEnginePowerFactor method works
+2021-08-11 22:54:30 INFO  CarInsuranceService:24 - getCostByDrivingExperience method works
+2021-08-11 22:54:30 INFO  CarInsuranceService:37 - getAccidentFactor method works
+2021-08-11 22:54:30 INFO  CarInsuranceService:52 - getCarEnginePowerFactor method works
+2021-08-11 22:54:39 INFO  CarInsuranceServiceClassTest:41 - getDrivingExperienceCostTest works
+2021-08-11 22:54:39 INFO  CarInsuranceService:13 - getCost method works
+2021-08-11 22:54:40 INFO  CarInsuranceServiceClassTest:32 - getDrivingExperienceCostTest works
+2021-08-11 22:54:40 INFO  CarInsuranceServiceClassTest:32 - getDrivingExperienceCostTest works
+2021-08-11 22:54:40 INFO  CarInsuranceService:13 - getCost method works
+2021-08-11 22:54:40 INFO  CarInsuranceService:24 - getCostByDrivingExperience method works
+2021-08-11 22:54:40 INFO  CarInsuranceService:37 - getAccidentFactor method works
+2021-08-11 22:54:40 INFO  CarInsuranceService:52 - getCarEnginePowerFactor method works
+2021-08-11 22:54:40 INFO  CarInsuranceService:13 - getCost method works
+2021-08-11 22:54:40 INFO  CarInsuranceService:24 - getCostByDrivingExperience method works
+2021-08-11 22:54:40 INFO  CarInsuranceService:37 - getAccidentFactor method works
+2021-08-11 22:54:40 INFO  CarInsuranceService:52 - getCarEnginePowerFactor method works
+2021-08-11 22:54:40 INFO  CarInsuranceServiceClassTest:32 - getDrivingExperienceCostTest works
+2021-08-11 22:54:40 INFO  CarInsuranceService:13 - getCost method works
+2021-08-11 22:54:40 INFO  CarInsuranceService:24 - getCostByDrivingExperience method works
+2021-08-11 22:54:40 INFO  CarInsuranceService:37 - getAccidentFactor method works
+2021-08-11 22:54:40 INFO  CarInsuranceService:52 - getCarEnginePowerFactor method works
+2021-08-30 20:12:59 INFO  CarInsuranceServiceClassTest:41 - getDrivingExperienceCostTest works
+2021-08-30 20:12:59 INFO  CarInsuranceService:13 - getCost method works
